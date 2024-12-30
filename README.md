@@ -4,7 +4,7 @@
 
 This repository contains a homepage replica of Amazon, designed to practice and showcase foundational web development skills.
 
-🌐 Live Demo: https://puneethvnaik.github.io/amazon-homepage-clone/<br>
+🌐 Live Demo: https://preethesh26.github.io/Amazon_Homepage_Clone/<br>
 
 **Features**<br>
 ✅ Fully responsive design optimized for various devices<br>
@@ -22,7 +22,7 @@ Clone the repository to your local system:
 
 git clone https://github.com/Preethesh26/Amazon_Homepage_Clone.git
 Open the index.html file in your browser to view the site locally.
-Alternatively, visit the live demo https://puneethvnaik.github.io/amazon-homepage-clone/.<br>
+Alternatively, visit the live demo https://preethesh26.github.io/Amazon_Homepage_Clone/.<br>
 
 **What’s Next?**<br>
 The current version includes only a static landing page. Future enhancements will include:<br>
