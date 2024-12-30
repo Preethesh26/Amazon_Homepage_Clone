@@ -1,4 +1,4 @@
-# amazon-homepage-clone
+# Amazon-Homepage-Clone
 **Amazon Homepage Clone**
 *🚀 Welcome to My First Web Development Project! 🚀*
 
