@@ -1,5 +1,5 @@
 # Amazon-Homepage-Clone
-**Amazon Homepage Clone**
+**Amazon Homepage Clone**<br>
 *🚀 Welcome to My First Web Development Project! 🚀*
 
 This repository contains a homepage replica of Amazon, designed to practice and showcase foundational web development skills.
