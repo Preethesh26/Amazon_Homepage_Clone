@@ -20,7 +20,7 @@ GitHub Pages: For hosting and deployment.
 **How to Access the Project**<br>
 Clone the repository to your local system:
 
-git clone https://github.com/Preethesh26/Preethesh26-Amazon_Homepage_Clone.git
+git clone https://github.com/Preethesh26/Amazon_Homepage_Clone.git
 Open the index.html file in your browser to view the site locally.
 Alternatively, visit the live demo https://puneethvnaik.github.io/amazon-homepage-clone/.<br>
 
